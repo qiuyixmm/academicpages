@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xu MingMin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "qiuyixmm/qiuyixmm.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "    Ming-Min Xu"
+  name             : "MingMin Xu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
